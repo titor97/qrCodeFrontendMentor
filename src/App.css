@@ -1,0 +1,41 @@
+html {
+  background-color: #D5E1EF;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 800px;
+}
+
+.card {
+  background-color: white;
+  width: 350px;
+  height: 500px;
+  border-radius: 20px;
+
+}
+
+.qrImage {
+  margin-top: 10px;
+  height: 325px;
+  width: 325px;
+  border-radius: 20px;
+}
+
+.title {
+  font-size: 18px;
+  ;
+  padding-left: 25px;
+  ;
+  padding-right: 25px;
+  font-weight: bold;
+}
+
+.paragraph {
+  color: #919298;
+  padding-left: 30px;
+  padding-right: 30px;
+}
